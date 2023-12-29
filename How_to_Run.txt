@@ -1,0 +1,6 @@
+1) In the SWI-Prolog prompt, use the consult/1 predicate to load the Prolog code. For example:
+consult('path/to/your/chatbot.pl').
+Replace 'path/to/your/chatbot.pl' with the actual path to your saved Prolog file.
+
+2) After loading the code, you can initiate the chatbot by calling the start_chatbot/0 predicate. Type the following in the SWI-Prolog prompt:
+start_chatbot.
